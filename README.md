@@ -33,6 +33,17 @@ I'm focused on building real-world projects, learning industry best practices, c
 
 ---
 
+## ☁️ Cloud, DevOps & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,bash,terraform,githubactions" />
+
+</div>
+
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -48,26 +59,6 @@ I'm focused on building real-world projects, learning industry best practices, c
 <a href="https://twitter.com/yourusername">
   <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter"/>
 </a>
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming & Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,vscode,git,github" />
-
-</div>
-
-### ☁️ Cloud, DevOps & Infrastructure
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,bash,terraform,githubactions" />
 
 </div>
 
@@ -150,38 +141,6 @@ https://github.com/yourusername/project-three
 | 💻 Development     | Python • JavaScript • Node.js         |
 
 </div>
-
----
-
-## ✨ A Little More About Me
-
-```yaml
-name: Your Name
-role: Aspiring Cloud & DevOps Engineer
-
-interests:
-  - Cloud Computing
-  - DevOps
-  - Linux
-  - Kubernetes
-  - Infrastructure as Code
-  - Automation
-  - Software Development
-  - Cloud Security
-
-currently_learning:
-  - Kubernetes
-  - Terraform
-  - Cloud Architecture
-  - CI/CD
-  - Linux
-
-2026_goals:
-  - Build real-world projects
-  - Contribute to open source
-  - Earn cloud certifications
-  - Become a Cloud & DevOps Engineer
-```
 
 ---
 
