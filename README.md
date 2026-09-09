@@ -48,15 +48,15 @@ I'm focused on building real-world projects, learning industry best practices, c
 
 <div align="center">
 
-<a href="https://github.com/chinonsouk" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/chinonsouk">
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/chinonso-ukadike-700035364" target="_blank" rel="noopener noreferrer">
+<a href="https://linkedin.com/in/chinonso-ukadike-700035364">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://dev.to/chinonso_ukadike" target="_blank" rel="noopener noreferrer">
+<a href="https://dev.to/chinonso_ukadike">
   <img src="https://skillicons.dev/icons?i=devto" height="45" alt="Dev.to"/>
 </a>
 
