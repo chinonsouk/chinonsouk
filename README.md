@@ -79,9 +79,9 @@ https://github.com/yourusername/project-one
 
 ## 🎓 Certifications
 
-| Certification                                | Issuing Organization | Credential           |
-| -------------------------------------------- | -------------------- | -------------------- |
-| Microsoft Azure Fundamentals (AZ-900)        | Microsoft            | [View Credential](#) |
+| Certification                                                       | Issuing Organization | Credential           |
+| ----------------------------------------------------------------    | -------------------- | -------------------- |
+| Accelerate AI-assisted development by using GitHub Copilot          | Microsoft            | [View Credential](https://acesse.one/nbza687) |
 
 ---
 
