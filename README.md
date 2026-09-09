@@ -77,39 +77,11 @@ https://github.com/yourusername/project-one
 
 ---
 
-### 🐳 Project Two
-
-A short description of your second project. Highlight the cloud, DevOps, automation, or software-development skills demonstrated.
-
-**Tech:** `Node.js` `Docker` `GitHub Actions` `Linux`
-
-🔗 **Repository:**
-https://github.com/yourusername/project-two
-
----
-
-### ⚙️ Project Three
-
-A short description of your third project. Mention any infrastructure, Kubernetes, CI/CD, or cloud technologies involved.
-
-**Tech:** `Kubernetes` `Terraform` `Azure` `GitHub Actions`
-
-🔗 **Repository:**
-https://github.com/yourusername/project-three
-
----
-
 ## 🎓 Certifications
 
 | Certification                                | Issuing Organization | Credential           |
 | -------------------------------------------- | -------------------- | -------------------- |
 | Microsoft Azure Fundamentals (AZ-900)        | Microsoft            | [View Credential](#) |
-| AWS Cloud Practitioner                       | AWS                  | [View Credential](#) |
-| Google Cloud Digital Leader                  | Google               | [View Credential](#) |
-| Kubernetes and Cloud Native Associate (KCNA) | CNCF                 | [View Credential](#) |
-| **Add certification**                        | **Organization**     | [View Credential](#) |
-
-
 
 ---
 
@@ -152,13 +124,13 @@ If you're working on an interesting project or learning cloud and DevOps, feel f
 
 <div align="center">
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/chinonsouk">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/chinonso-ukadike-700035364">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:chinonsoukadike97@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
