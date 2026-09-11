@@ -79,9 +79,12 @@ https://github.com/yourusername/project-one
 
 ## 🎓 Certifications
 
-| Certification                                                       | Issuing Organization | Credential           |
-| ----------------------------------------------------------------    | -------------------- | -------------------- |
-| Accelerate AI-assisted development by using GitHub Copilot          | Microsoft            | [View Credential](https://acesse.one/nbza687) |
+| Certification                                                       | Issuing Organization             | Credential           |
+| ----------------------------------------------------------------    | --------------------             | -------------------- |
+| Accelerate AI-assisted development by using GitHub Copilot          | Microsoft Applied SKill          | [View Credential](https://acesse.one/nbza687) |
+| Configure secure access to your workloads using Azure networking    | Microsoft Applied SKill          |  [View Credential](https://acesse.one/4h56oi6) |
+| Deploy and configure Azure Monitor                                  | Microsoft Applied SKill          |  [View Credential](https://l1nk.dev/jtgyrfr) |
+| Secure storage for Azure Files and Azure Blob Storage               | Microsoft Applied SKill          |  [View Credential](https://acesse.one/bcxl8u9) |
 
 ---
 
